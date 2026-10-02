@@ -6,15 +6,35 @@
     </url>
 
     <url>
+        <loc>https://reivcx.github.io/craftwise/guides/getting-started.html</loc>
+    </url>
+
+    <url>
         <loc>https://reivcx.github.io/craftwise/guides/first-night.html</loc>
     </url>
 
     <url>
-        <loc>https://reivcx.github.io/craftwise/guides/diamonds.html</loc>
+        <loc>https://reivcx.github.io/craftwise/guides/mining.html</loc>
     </url>
 
     <url>
-        <loc>https://reivcx.github.io/craftwise/guides/food.html</loc>
+        <loc>https://reivcx.github.io/craftwise/guides/enchanting.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/nether.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/villagers.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/redstone.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/end.html</loc>
     </url>
 
 </urlset>
