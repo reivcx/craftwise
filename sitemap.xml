@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://reivcx.github.io/craftwise/</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/getting-started.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/first-night.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/mining.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/enchanting.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/nether.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/villagers.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/redstone.html</loc>
-  </url>
-  <url>
-    <loc>https://reivcx.github.io/craftwise/guides/end.html</loc>
-  </url>
+
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/getting-started.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/first-night.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/mining.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/enchanting.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/nether.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/villagers.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/redstone.html</loc>
+    </url>
+
+    <url>
+        <loc>https://reivcx.github.io/craftwise/guides/end.html</loc>
+    </url>
+
 </urlset>
