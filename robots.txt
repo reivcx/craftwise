@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reivcx.github.io/craftwise/sitemap.xml
